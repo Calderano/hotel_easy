@@ -1,1 +1,1 @@
-This is a Hostel Managament System created using C++ .
+This is a Hotel Managament System created using C++ .
